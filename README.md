@@ -60,7 +60,7 @@ git clone https://github.com/higeasouza/ProjetoGamaIndividual
 
 - Entrando na pasta do projeto
  ```bash
-cd 
+cd ProjetoGamaIndividual
  ```
 
 - Configurando selenium em seu computador<br>
