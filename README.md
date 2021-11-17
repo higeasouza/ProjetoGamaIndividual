@@ -9,7 +9,7 @@ Autora: <br>
 - [![Linkedin Badge](https://img.shields.io/badge/-Higea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higeasouza/)](https://www.linkedin.com/in/higeasouza/)[Higea Celly Souza Barbosa](https://github.com/higeasouza)
 
 # Descrição do desafio 
-### Criar uma aplicação Selenium com os seguinte caso de teste
+### Criar uma aplicação Selenium com o seguinte caso de teste
 ### Caso de teste 1
 Acessar o site da Tricentis e preencher os dados necessários para requerimento de seguro<br>
 
@@ -23,7 +23,7 @@ Verificar a mensagem “Sending e-mail success!” na tela.<br>
 
 --------------------------------------------------------------------
 ## Dependencias
-- Projeto Java do repo abaixo rodando no site da Accenture<br>
+- Projeto Java do repo abaixo rodando no site da Tricentis<br>
 http://sampleapp.tricentis.com/101/app.php <br>
 Link do repositório: https://github.com/higeasouza/ProjetoGamaIndividual <br>
 
